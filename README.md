@@ -16,13 +16,13 @@ python pythonfile.py flat/nested size zipname.zip
 ## Flat Example
 ```
 
-python zip-bomb.py flat 1024 out.zip
+python ZipBomb.py flat 1024 out.zip
 
 ```
 
 ## Nested Example
 ```
 
-python zip-bomb.py nested 1024 out.zip
+python ZipBomb.py nested 1024 out.zip
 
 ```
