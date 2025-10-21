@@ -37,3 +37,7 @@ python ZipBomb.py nested 1024 out.zip
 ## Zip size after extraction (flat)
 
 ![Preview1](assets/preview3.jpg)
+
+## This is a nested type of zip (the zip will split into 3 parts)
+
+![Preview1](assets/preview4.jpg)
