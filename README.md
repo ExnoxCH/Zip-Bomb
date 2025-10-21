@@ -26,3 +26,14 @@ python ZipBomb.py flat 1024 out.zip
 python ZipBomb.py nested 1024 out.zip
 
 ```
+
+# Preview
+![Preview1](assets/preview1.jpg)
+
+## Zip size before extraction (flat)
+
+![Preview1](assets/preview2.jpg)
+
+## Zip size after extraction (flat)
+
+![Preview1](assets/preview3.jpg)
